@@ -1,0 +1,12 @@
+0	Keresztapa	2000	1980
+0	Matrix	20	20
+0	Avatar	3123	18
+0	Star Wars I	20	20
+0	Star Wars II	20	20
+0	Star Wars III	20	20
+0	Star Wars IV	20	20
+0	Star Wars V	20	20
+0	Star Wars VI	20	20
+0	Teszt	20	20
+1	ZZzzz	50	20	16
+2	Aaaaa	201	3242	Leiras a dokumentumfilmhez
